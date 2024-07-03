@@ -13,7 +13,8 @@
 
 [Badges]: # (Badges are rendered with shields.io)
 
-![GitHub Release](https://img.shields.io/github/v/release/os2compliance/os2compliance?style=for-the-badge&logo=github&color=darkgreen) ![GitHub Release Date](https://img.shields.io/github/release-date/os2compliance/os2compliance?display_date=published_at&style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/os2compliance/os2compliance?style=for-the-badge&logo=github&color=darkgreen) ![GitHub Release Date](https://img.shields.io/github/release-date/os2compliance/os2compliance?display_date=published_at&style=for-the-badge) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/os2compliance/os2compliance/build-and-push.yml?style=for-the-badge&logo=docker&label=Container%20build) 
+
 
 
 [![Contributors](https://img.shields.io/github/contributors/os2compliance/os2compliance?style=for-the-badge&logo=github)](https://github.com/os2compliance/os2compliance/graphs/contributors) ![GitHub last commit](https://img.shields.io/github/last-commit/os2compliance/os2compliance?style=for-the-badge&logo=github)
@@ -22,7 +23,8 @@
 
 ## os2sofd
 
-![GitHub Release](https://img.shields.io/github/v/release/os2sofd/os2sofd?style=for-the-badge&logo=github&color=darkgreen) ![GitHub Release Date](https://img.shields.io/github/release-date/os2sofd/os2sofd?display_date=published_at&style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/os2sofd/os2sofd?style=for-the-badge&logo=github&color=darkgreen) ![GitHub Release Date](https://img.shields.io/github/release-date/os2sofd/os2sofd?display_date=published_at&style=for-the-badge) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/os2sofd/os2sofd/build-and-push.yml?style=for-the-badge&logo=docker&label=Container%20build)
+
 
 [![Contributors](https://img.shields.io/github/contributors/os2sofd/os2sofd?style=for-the-badge&logo=github)](https://github.com/os2sofd/os2sofd/graphs/contributors) ![GitHub last commit](https://img.shields.io/github/last-commit/os2sofd/os2sofd?style=for-the-badge&logo=github)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/os2sofd/os2sofd?style=for-the-badge&logo=github)
